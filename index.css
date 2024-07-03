@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+
+}
+
+.baba{
+    background-color: brown;
+    width: 100px !important;
+    height: 100px !important;
+    margin-top: 100px;
+    margin-bottom: 100px !important;
+    margin-left: 100px;
+    margin-right: 100px;
+}
